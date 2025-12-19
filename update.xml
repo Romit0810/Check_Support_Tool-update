@@ -3,6 +3,6 @@
   <app appid='oeakgcjenlgncfjmpggoehdnmcflpgnc'>
     <updatecheck
       codebase='https://raw.githubusercontent.com/Romit0810/Check_Support_Tool-update/main/Check_Support_Tool.zip'
-      version='1.3.3' />
+      version='1.3.2' />
   </app>
 </gupdate>
