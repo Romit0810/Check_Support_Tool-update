@@ -1,1 +1,2 @@
 # Check_Support_Tool-update
+manualUpdateCheck()
