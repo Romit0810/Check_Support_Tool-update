@@ -2,7 +2,7 @@
 <gupdate xmlns='http://www.google.com/update2/response' protocol='2.0'>
   <app appid='oeakgcjenlgncfjmpggoehdnmcflpgnc'>
     <updatecheck
-      codebase='https://raw.githubusercontent.com/Romit0810/Check_Support_Tool-update/main/Check_Support_Tool_v1.4.9.crx'
-      version='1.4.9' />
+      codebase='https://raw.githubusercontent.com/Romit0810/Check_Support_Tool-update/main/Check_Support_Tool_v1.5.0.crx'
+      version='1.5.0' />
   </app>
 </gupdate>
