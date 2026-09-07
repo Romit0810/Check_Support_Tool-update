@@ -2,7 +2,7 @@
 <gupdate xmlns='http://www.google.com/update2/response' protocol='2.0'>
   <app appid='oeakgcjenlgncfjmpggoehdnmcflpgnc'>
     <updatecheck
-      codebase='https://cdn.jsdelivr.net/gh/Romit0810/Check_Support_Tool-update@main/Check_Support_Tool_v1.4.10.crx'
-      version='1.4.10' />
+      codebase='https://cdn.jsdelivr.net/gh/Romit0810/Check_Support_Tool-update@main/Check_Support_Tool_v2.0.0.crx'
+      version='2.0.0' />
   </app>
 </gupdate>
